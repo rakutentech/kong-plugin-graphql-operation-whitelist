@@ -1,0 +1,11 @@
+.vscode/*
+
+*.src.rock
+*.so
+
+# workdirectory
+.vagrant/
+*console.log
+
+# source code locations
+/kong/
